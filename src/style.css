@@ -1,0 +1,19 @@
+.dragimage {
+  top: -1000px;
+  right: 0px;
+  height: 1px;
+  width: 1px;
+  background-color: transparent;
+  /* line-height: 100px; */
+  position: absolute;
+  /* background-color: lightblue;
+  color: black;
+  width: 300px;
+  opacity: none; */
+  /* height: 100px;
+    line-height: 100px;
+    text-align: center;
+    border-radius: 6px;
+    background: green;
+    color: #efe; */
+}
